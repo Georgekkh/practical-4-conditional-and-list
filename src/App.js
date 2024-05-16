@@ -28,6 +28,11 @@ function App(props) {
     const name = 'ENTER YOUR NAME';
     return <div>
         <Hello name={name}></Hello>
+//              <ol>
+//                  <TitleLi title="Name">{name}</TitleLi>
+//                  <TitleLi title="Age">18</TitleLi>
+//                  <TitleLi title="Hobbies"></TitleLi>
+//               </ol>
       {props.hobbies.map(function(hobby) {
           return <Hobby title={hobby.title} emoji={hobby.emoji} key={hobby.title} />
       })}
