@@ -1,6 +1,6 @@
-// import Hello from './Hello.js';
-// import Hobby from './Hobby.js';
-// import TitleLi from './TitleLi.js';
+import Hello from './Hello.js';
+import Hobby from './Hobby.js';
+import TitleLi from './TitleLi.js';
 
 // export default function App() {
 //     const name = 'ENTER YOUR NAME';
