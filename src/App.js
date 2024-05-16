@@ -1,7 +1,7 @@
 import React from 'react';
 import Hello from './Hello.js';
 import Hobby from './Hobby.js';
-import TitleLi from './TitleLi.js';
+// import TitleLi from './TitleLi.js';
 
 function App(props) {
     const name = 'ENTER YOUR NAME';
