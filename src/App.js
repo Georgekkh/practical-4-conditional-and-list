@@ -15,7 +15,7 @@ function App(props) {
           return <Hobby title={hobby.title} emoji={hobby.emoji} key={hobby.title} />
       })}
      </div>
-  }4-Georgekkh
+  }
 
 // export default function App() {
 //     const name = 'ENTER YOUR NAME';
